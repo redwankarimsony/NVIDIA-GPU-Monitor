@@ -1,2 +1,5 @@
+from easydict import EasyDict as edict
+
 # Refresh Rate in seconds
-refresh_rate = 0.5
+config = edict()
+config.refresh_rate = 0.5
