@@ -1,4 +1,4 @@
 # NVIDIA-GPU-Monitor
 
 
-[!](demo.gif)
+![](demo.gif)
